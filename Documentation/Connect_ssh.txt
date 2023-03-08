@@ -1,0 +1,2 @@
+ssh olemio@192.168.17.53 connect to terimnal
+ssh -L 27017:localhost:27017 olemio@192.168.17.53 connect ports
