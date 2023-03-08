@@ -50,6 +50,7 @@ function App() {
 
   return (
     <>
+      <h1>hello</h1>
       <GenerateScramble intervalCount={intervalCount}/>
       
       <TimerClock parentCallBack={callBackFunction} intervalCount={intervalCount}/>
