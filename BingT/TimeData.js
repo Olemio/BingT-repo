@@ -1,9 +1,9 @@
-import mongoose from "mongoose"
+// import mongoose from "mongoose"
 
-const timeDataSchema = new mongoose.Schema({
-    scramble: String,
-    time: Number,
-    date: String
-})
+// const timeDataSchema = new mongoose.Schema({
+//     scramble: String,
+//     time: Number,
+//     date: String
+// })
 
-export default mongoose.model("TimeData", timeDataSchema)
+// export default mongoose.model("TimeData", timeDataSchema)
